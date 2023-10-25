@@ -12,13 +12,13 @@ date: 2023-04-25
 # copyright:
 copyrightYear: 2021+
 releaseLabel: "CI Build"
-title: "WHO SMART Guideline: Surveillance and Outbreak Toolkit"
+title: "WHO SMART Guideline: Surveillance and Outbreak Toolkit_PN"
 description: "WHO SMART Guideline: Surveillance and Outbreak Toolkit"
 license: CC0-1.0
 publisher:
-  name: WHO
+  name: Patricia
   url: http://who.int
-email: leitnerc@who.int
+email: ndumbip@who.int
 # contact:
 jurisdiction: http://unstats.un.org/unsd/methods/m49/m49.htm#001
 # experimental: true
