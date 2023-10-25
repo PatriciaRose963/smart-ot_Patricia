@@ -4,7 +4,6 @@ RuleSet: Quest(linkId, text, type, repeats)
 * item[=].type = #{type}
 * item[=].repeats = {repeats}
 
-
 Instance: SOTMeasles-AFRO-MRCIF
 InstanceOf: sdc-questionnaire-extr-smap
 Description: "AFRO MEASLES/ RUBELLA SUSPECTED CASE REPORTING FORM"
